@@ -1,4 +1,4 @@
-## Making a Project Website
+## Making Peiyang's Project Website
 
 ### Configuration variables
 
