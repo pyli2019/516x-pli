@@ -10,7 +10,7 @@ This program aims at predicting weather information, including but not limited t
 
 ### Data description
 
-What kind of data is avialble?  How is your data collected?  Are there any concerns about the data?  Which data is the most relevant?  Is the data easy to acccess? Will the data change over time?  What needs to be done to the data to get it ready for any downstream analysis?
+Although weather data is abundant, finding the range of data that fits the specific problem sometimes can be challenging. In this project, the weather data are acquired from Iowa Environmental Mesonet’s ASOS Network. 
 
 ### Explore the data
 
