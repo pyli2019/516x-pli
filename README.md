@@ -18,7 +18,7 @@ The data is in the format of Excel file, and it was recorded on an hourly basis.
 
 ### Model the data
 
-Build a model, fit the model, validate the model.
+The models that are used in this project include linear regression model, 
 
 ### Communciate and visualize the results
 
