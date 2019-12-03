@@ -1,4 +1,4 @@
-# Weather Forcasting for cities in Iowa
+# Hourly Weather Forcasting for Ames
 
 ### Configuration variables
 
