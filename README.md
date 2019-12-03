@@ -14,9 +14,7 @@ Although weather data is abundant, finding the range of data that fits the speci
 
 ### Explore the data
 
-The data is in the format of Excel file, and it was recorded on an hourly basis. So in average, there are 24 rows of data per day. The pattern from the simple plots can be seen as 
-
-Demonstrate what you would do to describe the data and if it has any patterns or anomolies.  Make some plots.
+The data is in the format of Excel file, and it was recorded on an hourly basis. So in average, there are 24 rows of data per day. The pattern can be observed on a daily basis. On a larger scale, i.e. yearly basis, the patterns are not conspicuous. 
 
 ### Model the data
 
