@@ -10,9 +10,11 @@ This program aims at predicting weather information, including but not limited t
 
 ### Data description
 
-Although weather data is abundant, finding the range of data that fits the specific problem sometimes can be challenging. In this project, the weather data are acquired from Iowa Environmental Mesonet’s ASOS Network. 
+Although weather data is abundant, finding the range of data that fits the specific problem sometimes can be challenging. In this project, the weather data are acquired from Iowa Environmental Mesonet’s ASOS Network. The range of data is from December 2018 to December 2019.
 
 ### Explore the data
+
+The data is in the format of Excel file, and it was recorded on an hourly basis. So in average, there are 24 rows of data per day. The pattern from the simple plots can be seen as 
 
 Demonstrate what you would do to describe the data and if it has any patterns or anomolies.  Make some plots.
 
