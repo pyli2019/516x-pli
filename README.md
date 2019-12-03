@@ -18,15 +18,14 @@ The data is in the format of Excel file, and it was recorded on an hourly basis.
 
 ### Model the data
 
-The models that are used in this project include linear regression model, 
+The models that are used in this project include linear regression model, Sciki linear regression model, SVM polynomial model. 
 
 ### Communciate and visualize the results
 
-What did you learn and do the results make sense?  Revisit your initial question and answer it.  H
 
 ### Class Exercise
 
-In each project, I'd like to see a homework assignment that the class can do/evaluate to learn more about your data.  This should be a reproducible notebook that allows them to learn one or more aspects of your data workflow.  It is also an opportunity to share your research with your colleagues.
+An example class exercise could be 
 
 ### Configuration variables
 
