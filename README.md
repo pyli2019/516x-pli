@@ -20,12 +20,13 @@ The data is in the format of Excel file, and it was recorded on an hourly basis.
 
 The models that are used in this project include linear regression model, Sciki linear regression model, SVM polynomial model. 
 
-### Communciate and visualize the results
+### Communicate and visualize the results
 
 
 ### Class Exercise
 
-An example class exercise could be 
+An example class exercise could be using linear regression to predict one of the variables.
+
 
 ### Configuration variables
 
