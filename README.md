@@ -16,11 +16,17 @@ Although weather data is abundant, finding the range of data that fits the speci
 
 The data is in the format of Excel file, and it was recorded on an hourly basis. So in average, there are 24 rows of data per day. The pattern can be observed on a daily basis. On a larger scale, i.e. yearly basis, the patterns are not conspicuous. 
 
+![GitHub Logo](/images/DataExploration.png)
+Format: ![Raw Data](url)
+
+DataExploration
+
 ### Model the data
 
 The models that are used in this project include linear regression model, Sciki linear regression model, SVM polynomial model. 
 
 ### Communicate and visualize the results
+
 
 
 ### Class Exercise
