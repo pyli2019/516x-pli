@@ -1,5 +1,5 @@
 # Weather Forcasting for cities in Iowa
-## Peiyang's Project Website
+## Peiyang Li's ABE 516x Project Website
 
 ### Configuration variables
 
