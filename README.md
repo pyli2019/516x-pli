@@ -40,4 +40,4 @@ Only one year of weather data was applied in training the model, which may not b
 ### Class Exercise
 
 An example class exercise can be found here. 
-
+https://nbviewer.jupyter.org/github/pyli2019/516x-pli/blob/master/Weather%20Forcasting_Assignment.ipynb
