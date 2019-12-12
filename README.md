@@ -27,9 +27,13 @@ There are six weather factors in the dataset: air temperature (F), relative humi
 
 ### Results
 The prediction for temperature earns a regression score of 0.969
+The score for RH prediction is 
+The score for "feels-like" prediction is 
 
 
 ### Limitations
+
+Only one year of weather data was applied in training the model, which may not be sufficient 
 
 ### Class Exercise
 
