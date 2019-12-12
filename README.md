@@ -16,11 +16,18 @@ Although weather data is abundant, finding the right range of data that fits the
 ![GitHub Logo](/images/DataExploration.png)
 Format: ![Raw Data](url)
 
-### Data Exploration
+
+### Data Preprocessing
+Here a link to my Python Notebooks. 
+
 
 ### Data Analysis
 
-The models that are used in this project include linear regression model, Sciki linear regression model, SVM polynomial model. 
+The models that are used in this project include Random Forest Model linear regression model, Sciki linear regression model, SVM polynomial model. 
+
+
+
+
 
 ### Communicate and visualize the results
 
@@ -28,7 +35,7 @@ The models that are used in this project include linear regression model, Sciki 
 
 ### Class Exercise
 
-An example class exercise could be using linear regression to predict one of the variables.
+An example class exercise can be found here. 
 
 
 ### Configuration variables
