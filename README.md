@@ -9,6 +9,7 @@ This program aims at predicting the weather conditions in Ames, including but no
 
 There are several models available online that aim at predicting temperature, RH values, etc. However, some of them only use historical data with a single factor or two or three factors to project the goal. This project, however, takes advantage of five factors to predict the remaining one, potentially increasing the reliability and accuracy of the model. 
 
+![alt text](https://raw.githubusercontent.com/pyli2019/516x-pli/master/forecast-reliability2.jpg?raw=true "forecast-reliability2")
 
 ### Data Preprocessing
 
@@ -21,6 +22,7 @@ Here a link to my Python Notebooks.
 The main model used for this project is Random Forest. There are six weather factors in the dataset: air temperature (F), relative humidity (%), "feel-like" temperature, wind speed, hourly p recipitation, and visibility. To predict temperature, the rest of the five factors are set as input for training. Same principles apply to the other five factors, i.e. to predict relative humidity, temperature, "feel-like" temperature, wind speed, precipitation and visibility are all used to train the model to achieve better prediction results. As mentioned in the introduction, there are numerous factors that influence the weather, and at the same time, these factors are interlated and interacting with each other. 
 
 ### Results
+
 The prediction for temperature has a correlation coefficient of 0.969
 
 The coefficient for RH prediction is 0.39
