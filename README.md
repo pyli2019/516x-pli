@@ -22,9 +22,7 @@ Here a link to my Python Notebooks.
 
 ### Data Analysis
 
-The main model used for this project is Random Forest. 
-
-There are six weather factors in the dataset: air temperature (F), relative humidity (%), "feel-like" temperature, wind speed, hourly p recipitation, and visibility. To predict temperature, the rest of the five factors are set as input for training. Same principles apply to the other five factors, i.e. to predict relative humidity, temperature, "feel-like" temperature, wind speed, precipitation and visibility are all used to train the model to achieve better prediction results. As mentioned in the introduction, there are numerous factors that influence the weather, and at the same time, these factors are interlated and interacting with each other. 
+The main model used for this project is Random Forest. There are six weather factors in the dataset: air temperature (F), relative humidity (%), "feel-like" temperature, wind speed, hourly p recipitation, and visibility. To predict temperature, the rest of the five factors are set as input for training. Same principles apply to the other five factors, i.e. to predict relative humidity, temperature, "feel-like" temperature, wind speed, precipitation and visibility are all used to train the model to achieve better prediction results. As mentioned in the introduction, there are numerous factors that influence the weather, and at the same time, these factors are interlated and interacting with each other. 
 
 ### Results
 The prediction for temperature earns a regression score of 0.969
