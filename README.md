@@ -10,7 +10,7 @@ This program aims at predicting the weather conditions in Ames, including but no
 There are several models available online that aim at predicting temperature, RH values, etc. However, some of them only use historical data with a single factor or two or three factors to project the goal. This project, however, takes advantage of five factors to predict the remaining one, potentially increasing the reliability and accuracy of the model. 
 
 ![alt text](https://raw.githubusercontent.com/pyli2019/516x-pli/master/forecast-reliability2.jpg?raw=true "forecast-reliability2")
-
+(Source: https://scijinks.gov/forecast-reliability/)
 ### Data Preprocessing
 
 Although weather data is abundant, finding the right range of data that fits the specific problem sometimes can be challenging. In this project, the weather data are acquired from Iowa Environmental Mesonet’s ASOS Network. The range of data is from December 1, 2018 to December 1, 2019. The data is aquired in the format of txt files, and they were recorded on an hourly or half-hourly basis.
