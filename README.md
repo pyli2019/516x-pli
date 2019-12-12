@@ -1,4 +1,4 @@
-# Hourly Weather Forcasting for Ames
+# Simple Model for Daily Weather Forcasting
 
 ## Suggestions for Project Reporting
 
