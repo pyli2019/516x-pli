@@ -6,7 +6,7 @@
 
 Weather forecast is essential in modern society. People acquire weather information every day and everywhere to make plans on traveling and events. Weather forecasting helps people be prepared when a storm comes. In Iowa and some other agricultural states, weather is also significant in agricultural production, plotting time, spraying time, and harvest time, all determined by weather. 
 
-This program aims at predicting weather information, including but not limited to temperature, relative humidity, “feels like” temperature, wind speed, precipitation, and visibility, on an hourly basis. At a given time, the next hour’s weather is predicted using the weather data that is 0 - 5 hours prior to that time. 
+This program aims at predicting the weather in Ames, including but not limited to temperature, relative humidity, “feels like” temperature, wind speed, precipitation, and visibility, on an hourly basis. 
 
 ### Data Description
 
