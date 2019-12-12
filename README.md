@@ -8,13 +8,14 @@ Weather forecast is essential in modern society. People acquire weather informat
 
 This program aims at predicting weather information, including but not limited to temperature, relative humidity, “feels like” temperature, wind speed, precipitation, and visibility, on an hourly basis. At a given time, the next hour’s weather is predicted using the weather data that is 0 - 5 hours prior to that time. 
 
-### Data description
+### Data Description
 
-Although weather data is abundant, finding the range of data that fits the specific problem sometimes can be challenging. In this project, the weather data are acquired from Iowa Environmental Mesonet’s ASOS Network. The range of data is from December 2018 to December 2019.
+Although weather data is abundant, finding the right range of data that fits the specific problem sometimes can be challenging. In this project, the weather data are acquired from Iowa Environmental Mesonet’s ASOS Network. The range of data is from December 2018 to December 2019.
 
-### Explore the data
+### Data Processing
 
-The data is in the format of Excel file, and it was recorded on an hourly basis. So in average, there are 24 rows of data per day. The pattern can be observed on a daily basis. On a larger scale, i.e. yearly basis, the patterns are not conspicuous. 
+The data is aquired in the format of Excel file, and it was recorded on an hourly basis or less.
+
 
 ![GitHub Logo](/images/DataExploration.png)
 Format: ![Raw Data](url)
