@@ -1,4 +1,4 @@
-# (To be finalized by 8:45 am)
+# (To be finalized by 8:45 am, Dec 12)
 
 # Simple Weather Forcasting Model
 
