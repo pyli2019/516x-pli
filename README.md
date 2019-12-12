@@ -6,6 +6,8 @@ Weather forecast is essential in modern society. People acquire weather informat
 
 This program aims at predicting the weather conditions in Ames, including but not limited to temperature, relative humidity, “feels like” temperature, wind speed, precipitation, and visibility, on an hourly basis. 
 
+There are several models available online that aim at predicting temperature, RH values, etc. However, some of them only use historical data with a single factor or two or three factors to project the goal. This project, however, takes advantage of five factors to predict the remaining one, potentially increasing the reliability and accuracy of the model. 
+
 ### Workflow
 
 ![GitHub Logo](/images/DataExploration.png)
