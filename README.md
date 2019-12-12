@@ -1,6 +1,4 @@
-# Simple Model for Daily Weather Forcasting
-
-## Suggestions for Project Reporting
+# Simple Weather Forcasting Model
 
 ### Introduction 
 
