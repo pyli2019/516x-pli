@@ -10,7 +10,9 @@ This program aims at predicting weather information, including but not limited t
 
 ### Data Description
 
-Although weather data is abundant, finding the right range of data that fits the specific problem sometimes can be challenging. In this project, the weather data are acquired from Iowa Environmental Mesonet’s ASOS Network. The range of data is from December 2018 to December 2019.
+Although weather data is abundant, finding the right range of data that fits the specific problem sometimes can be challenging. In this project, the weather data are acquired from Iowa Environmental Mesonet’s ASOS Network. The range of data is from December 1, 2018 to December 1, 2019.
+
+### Workflow
 
 ### Data Processing
 
