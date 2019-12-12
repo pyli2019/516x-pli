@@ -9,10 +9,6 @@ This program aims at predicting the weather conditions in Ames, including but no
 
 There are several models available online that aim at predicting temperature, RH values, etc. However, some of them only use historical data with a single factor or two or three factors to project the goal. This project, however, takes advantage of five factors to predict the remaining one, potentially increasing the reliability and accuracy of the model. 
 
-### Workflow
-
-![GitHub Logo](/images/DataExploration.png)
-Format: ![Raw Data](url)
 
 ### Data Preprocessing
 
@@ -28,6 +24,8 @@ The main model used for this project is Random Forest. There are six weather fac
 The prediction for temperature earns a regression score of 0.969
 The score for RH prediction is 
 The score for "feels-like" prediction is 
+
+![alt text](https://raw.githubusercontent.com/pyli2019/516x-pli/master/1.PNG? raw=true "1")
 
 
 ### Limitations
