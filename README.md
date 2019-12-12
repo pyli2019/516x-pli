@@ -25,7 +25,7 @@ The prediction for temperature earns a regression score of 0.969
 The score for RH prediction is 0.39
 The score for "feels-like" prediction is 0.021
 
-![alt text](https://raw.githubusercontent.com/pyli2019/516x-pli/master/1.PNG? raw=true "1")
+![alt text](https://raw.githubusercontent.com/pyli2019/516x-pli/master/1.PNG?raw=true "1")
 
 
 ### Limitations
