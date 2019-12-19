@@ -15,6 +15,10 @@ There are several models available online that aim at predicting temperature, RH
 
 Although weather data is abundant, finding the right range of data that fits the specific problem sometimes can be challenging. In this project, the weather data are acquired from Iowa Environmental Mesonet’s ASOS Network. The range of data is from December 1, 2018 to December 1, 2019. The data is aquired in the format of txt files, and they were recorded on an hourly or half-hourly basis.
 
+#### Raw Data
+![alt text](https://github.com/pyli2019/516x-pli/blob/master/Correlation%20heatmap.png?raw=true "Correlation%20heatmap")
+
+
 Here a link to my Python Notebooks. 
 
 ### Data Analysis
