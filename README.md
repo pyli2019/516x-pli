@@ -17,6 +17,7 @@ Although weather data is abundant, finding the right range of data that fits the
 
 #### Raw Data
 ![alt text](https://github.com/pyli2019/516x-pli/blob/master/Correlation%20heatmap.png?raw=true "Correlation%20heatmap")
+
 Correlation Map 
 
 ![alt text](https://github.com/pyli2019/516x-pli/blob/master/temp_vs_date.png?raw=true "temp_vs_date")
