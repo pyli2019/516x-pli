@@ -20,6 +20,7 @@ Although weather data is abundant, finding the right range of data that fits the
 Correlation Map 
 
 ![alt text](https://github.com/pyli2019/516x-pli/blob/master/temp_vs_date.png?raw=true "temp_vs_date")
+
 Demo: Temperature change in a year. Plots on other factors over time are omitted.  
 
 
