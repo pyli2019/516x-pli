@@ -39,11 +39,11 @@ The coefficient for RH prediction is 0.314
 
 The coefficient for "feels-like" prediction is 0.424
 
-The coefficient for wind speed prediction is 0.077
+The coefficient for wind speed prediction is 0.0769
 
-The coefficient for precipitation prediction is 0.021
+The coefficient for precipitation prediction is 0.0425
 
-The coefficient for visbility prediction is 0.021
+The coefficient for visbility prediction is 0.0944
 
 ![alt text](https://raw.githubusercontent.com/pyli2019/516x-pli/master/1.PNG?raw=true "1")
 
