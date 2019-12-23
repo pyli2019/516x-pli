@@ -58,14 +58,15 @@ The coefficient for visbility prediction is 0.0944
 ![alt text](https://raw.githubusercontent.com/pyli2019/516x-pli/master/6.png?raw=true "6")
 
 
-https://raw.githubusercontent.com/pyli2019/516x-pli/master/4.png
 
-The model is good at predicting temperature 
+
 ### Limitations
 
-Only one year of weather data was applied in training the model, which may not be sufficient. 
+The model is good at predicting temperature, since its correlation factor is 0.969. However, other predictions seem to fail in accuracy. The reason could be only one year of weather data was applied in training the model, which may not be sufficient. Another reason could be that the real weather forcasting model consists of numerous factors, and five factors are not representative enough to make a prediction.
 
 ### Class Exercise
 
 An example class exercise can be found here. 
 https://nbviewer.jupyter.org/github/pyli2019/516x-pli/blob/master/Weather%20Forcasting_Assignment.ipynb
+
+Thank you for visiting. 
