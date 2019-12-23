@@ -35,14 +35,15 @@ The main model used for this project is Random Forest. There are six weather fac
 
 The prediction for temperature has a correlation coefficient of 0.969
 
-The coefficient for RH prediction is 0.39
+The coefficient for RH prediction is 0.314
 
-The coefficient for "feels-like" prediction is 0.021
+The coefficient for "feels-like" prediction is 0.424
 
-The coefficient for RH prediction is 0.39
+The coefficient for wind speed prediction is 0.077
 
-The coefficient for "feels-like" prediction is 0.021
+The coefficient for precipitation prediction is 0.021
 
+The coefficient for visbility prediction is 0.021
 
 ![alt text](https://raw.githubusercontent.com/pyli2019/516x-pli/master/1.PNG?raw=true "1")
 
@@ -56,9 +57,10 @@ The coefficient for "feels-like" prediction is 0.021
 
 ![alt text](https://raw.githubusercontent.com/pyli2019/516x-pli/master/6.PNG?raw=true "6")
 
+The model is good at predicting temperature 
 ### Limitations
 
-Only one year of weather data was applied in training the model, which may not be sufficient 
+Only one year of weather data was applied in training the model, which may not be sufficient. 
 
 ### Class Exercise
 
