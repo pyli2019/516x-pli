@@ -57,6 +57,9 @@ The coefficient for visbility prediction is 0.021
 
 ![alt text](https://raw.githubusercontent.com/pyli2019/516x-pli/master/6.png?raw=true "6")
 
+
+https://raw.githubusercontent.com/pyli2019/516x-pli/master/4.png
+
 The model is good at predicting temperature 
 ### Limitations
 
